@@ -1,10 +1,10 @@
-# notes-joshuayoes-com Redirect Service
+# notes.joshuayoes.com Redirect Service
 
 This project provides a simple URL redirection service hosted on Vercel.
 
 ## Functionality
 
-It redirects requests made to `https://notes-joshuayoes-com.vercel.app/<path>` to the corresponding Markdown file at `https://github.com/joshuayoes/knowledge-bank/blob/main/<path>.md`.
+It redirects requests made to `https://notes.joshuayoes.com/<path>` to the corresponding Markdown file at `https://github.com/joshuayoes/knowledge-bank/blob/main/<path>.md`.
 
 Additionally, the root path `/` redirects to the main README of the knowledge bank repository: `https://github.com/joshuayoes/knowledge-bank/blob/main/README.md`.
 
