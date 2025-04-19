@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://github.com/joshuayoes/knowledge-bank/blob/main/README.md",
+      "permanent": false
+    },
+    {
       "source": "/:path((?!api/).*)",
       "destination": "https://github.com/joshuayoes/knowledge-bank/blob/main/:path.md",
       "permanent": false
