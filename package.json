@@ -1,0 +1,11 @@
+{
+  "name": "notes-joshuayoes-com",
+  "version": "1.0.0",
+  "description": "A URL redirect service for https://github.com/joshuayoes/knowledge-bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Yoes",
+  "license": "MIT"
+}
